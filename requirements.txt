@@ -1,0 +1,8 @@
+geopandas==0.6.1
+descartes==1.1.0
+dask==2.9.2
+dask-core==2.9.2
+dask-glm==0.2.0
+dask-ml==1.1.1
+dask-searchcv==0.2.0
+dask-jobqueue==0.7.0
